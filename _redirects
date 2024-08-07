@@ -1,0 +1,2 @@
+# Redirect from the root URL to numetrybasic.html
+/ /numetrybasic.html 301
